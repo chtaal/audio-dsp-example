@@ -1,0 +1,9 @@
+name: audio-dsp-example
+dependencies:
+  - python=3.9
+  - ipython
+  - jupyter
+  - matplotlib
+  - pandas
+  - numpy
+  - scipy
